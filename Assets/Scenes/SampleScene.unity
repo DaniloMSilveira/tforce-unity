@@ -675,7 +675,7 @@ MonoBehaviour:
   minTime: 1
   maxTime: 5
   EnemiesList:
-  - {fileID: 8274319409127306560, guid: 412e47ad5762f5946b01d00b64553735, type: 3}
+  - {fileID: 7655734150835983187, guid: 412e47ad5762f5946b01d00b64553735, type: 3}
 --- !u!4 &1880371103
 Transform:
   m_ObjectHideFlags: 0
