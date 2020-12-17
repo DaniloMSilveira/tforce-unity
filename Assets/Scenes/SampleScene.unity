@@ -672,10 +672,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialTime: 1
-  minTime: 1
+  minTime: 2
   maxTime: 5
   EnemiesList:
   - {fileID: 7655734150835983187, guid: 412e47ad5762f5946b01d00b64553735, type: 3}
+  - {fileID: 3944807871420526223, guid: 7f13f3b5fd33a254e8c8475a0f48b9fc, type: 3}
 --- !u!4 &1880371103
 Transform:
   m_ObjectHideFlags: 0
