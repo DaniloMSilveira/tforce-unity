@@ -20,7 +20,6 @@ public class Enemy : MonoBehaviour
     void Update()
     {
         // Mesma logica da bala só que para a esquerda
-        //transform.Translate(Vector3.left * Speed * Time.deltaTime);
 
         rig.velocity = new Vector2(-Random.Range(minSpeed, maxSpeed), rig.velocity.y);
 
